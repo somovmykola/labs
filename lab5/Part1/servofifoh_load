@@ -1,0 +1,2 @@
+sudo /sbin/insmod servofifoh.ko
+

@@ -1,0 +1,6 @@
+sudo /sbin/insmod /usr/realtime/modules/rtai_hal.ko
+sudo /sbin/insmod /usr/realtime/modules/rtai_up.ko
+sudo /sbin/insmod task1.ko
+
+
+

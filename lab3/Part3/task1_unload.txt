@@ -1,0 +1,6 @@
+sudo /sbin/rmmod task1-2
+sudo /sbin/rmmod rtai_sched
+sudo /sbin/rmmod rtai_hal
+
+
+

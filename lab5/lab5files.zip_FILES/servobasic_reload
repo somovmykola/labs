@@ -1,0 +1,5 @@
+sudo /sbin/rmmod servobasic
+sudo /sbin/insmod ./servobasic.ko position=$1
+
+
+
